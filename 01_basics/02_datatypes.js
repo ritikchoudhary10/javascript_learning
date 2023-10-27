@@ -51,3 +51,21 @@ let isActive=true;
             these values can be true or false or 0 or 1 . 
             these values 0 and 1 comes when boolean is typecasted
 */
+
+/*
+    null:-> Null is a representation of empty value.It informs that the variable doen't contain any value.
+*/
+
+/*
+    Symbol=> Symbol is a datatype used to identify unique values . 
+             this datatype is mostly used in react for defining react components as unique from others
+*/
+
+
+// Special case 
+
+// typeof is used for for checking type of the variable or literal.
+
+// Faq's-->
+console.log(typeof null );//  Object
+console.log(typeof undefined);// Undefined
